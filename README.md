@@ -26,6 +26,7 @@
       - The rest are built into python.
 ### Project Setup
       - Install Python
-      - Make sure selenium is instaleld
-      - Copy or clone pyton file
+      - Make sure selenium is installed
+      - Copy or clone python file
+      - Adjust path to chrome driver
       - Run in python 3.13
