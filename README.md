@@ -20,3 +20,12 @@
             Make sure Nuget packages are installed and then run the tests.
             This uses a test login server https://practicetestautomation.com/practice-test-login/ to test.
 
+## Python Selenium
+### Packages need for Visual Studio
+      - Selenium (pip install selenium)
+      - The rest are built into python.
+### Project Setup
+      - Install Python
+      - Make sure selenium is instaleld
+      - Copy or clone pyton file
+      - Run in python 3.13
